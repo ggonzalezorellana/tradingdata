@@ -1,0 +1,15 @@
+# Solo se versionan los CSV exportados y export_info.txt.
+# Nunca configuraciones, secretos ni bases de datos.
+*.json
+*.sqlite
+*.sqlite-*
+*.db
+.env
+.env.*
+config*
+*secret*
+.credentials
+*.key
+*.pem
+*.tmp
+__pycache__/
