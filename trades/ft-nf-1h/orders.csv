@@ -1,0 +1,2 @@
+id,ft_trade_id,ft_order_side,ft_pair,ft_is_open,ft_amount,ft_price,ft_cancel_reason,order_id,status,symbol,order_type,side,price,average,amount,filled,remaining,cost,stop_price,order_date,order_filled_date,order_update_date,funding_fee,ft_fee_base,ft_order_tag
+1,1,buy,NEAR/USDT,0,11.740290542543729,3.373,,dry_run_buy_NEAR/USDT_12ac2531-69e2-49d3-98d4-8b25fa5ea342,closed,NEAR/USDT,limit,buy,3.373,3.373,11.7,11.7,0.0,39.4641,,2026-11-18 04:55:53.724000,2026-11-18 04:56:53.715000,2026-11-18 04:56:53.715471,0.0,,

@@ -1,0 +1,1 @@
+id,ft_trade_id,ft_order_side,ft_pair,ft_is_open,ft_amount,ft_price,ft_cancel_reason,order_id,status,symbol,order_type,side,price,average,amount,filled,remaining,cost,stop_price,order_date,order_filled_date,order_update_date,funding_fee,ft_fee_base,ft_order_tag

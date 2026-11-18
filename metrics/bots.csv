@@ -1,0 +1,13 @@
+bot,strategy,timeframe,port
+freqtrade,DonchianTrendV3a,4h,8080
+ft-nf-15m,DonchianTrendV3aNF,15m,8089
+ft-nf-1h,DonchianTrendV3aNF,1h,8087
+ft-nf-1m,DonchianTrendV3aNF,1m,8091
+ft-nf-30m,DonchianTrendV3aNF,30m,8088
+ft-nf-4h,DonchianTrendV3aNF,4h,8086
+ft-nf-5m,DonchianTrendV3aNF,5m,8090
+ft-v3a-15m,DonchianTrendV3a,15m,8083
+ft-v3a-1h,DonchianTrendV3a,1h,8081
+ft-v3a-1m,DonchianTrendV3a,1m,8085
+ft-v3a-30m,DonchianTrendV3a,30m,8082
+ft-v3a-5m,DonchianTrendV3a,5m,8084
