@@ -1,24 +1,24 @@
-export_utc: 2026-11-19 03:07:01 UTC
+export_utc: 2026-11-19 04:07:01 UTC
 
 filas por archivo (sin encabezado):
-        29  metrics/backtests.csv
-      3240  metrics/balances.csv
+        40  metrics/backtests.csv
+      3384  metrics/balances.csv
         12  metrics/bots.csv
-       301  metrics/decisions.csv
+       312  metrics/decisions.csv
          0  trades/freqtrade/orders.csv
          0  trades/freqtrade/trades.csv
-        15  trades/ft-nf-15m/orders.csv
-         8  trades/ft-nf-15m/trades.csv
+        16  trades/ft-nf-15m/orders.csv
+         9  trades/ft-nf-15m/trades.csv
          3  trades/ft-nf-1h/orders.csv
          2  trades/ft-nf-1h/trades.csv
-       267  trades/ft-nf-1m/orders.csv
-       114  trades/ft-nf-1m/trades.csv
-         7  trades/ft-nf-30m/orders.csv
-         4  trades/ft-nf-30m/trades.csv
+       273  trades/ft-nf-1m/orders.csv
+       118  trades/ft-nf-1m/trades.csv
+         8  trades/ft-nf-30m/orders.csv
+         5  trades/ft-nf-30m/trades.csv
          0  trades/ft-nf-4h/orders.csv
          0  trades/ft-nf-4h/trades.csv
-        30  trades/ft-nf-5m/orders.csv
-        16  trades/ft-nf-5m/trades.csv
+        33  trades/ft-nf-5m/orders.csv
+        18  trades/ft-nf-5m/trades.csv
          0  trades/ft-v3a-15m/orders.csv
          0  trades/ft-v3a-15m/trades.csv
          0  trades/ft-v3a-1h/orders.csv
