@@ -1,8 +1,8 @@
-export_utc: 2026-11-27 21:07:01 UTC
+export_utc: 2026-11-27 22:07:01 UTC
 
 filas por archivo (sin encabezado):
         44  metrics/backtests.csv
-     17880  metrics/balances.csv
+     17952  metrics/balances.csv
         12  metrics/bots.csv
        386  metrics/decisions.csv
          0  trades/freqtrade/orders.csv
